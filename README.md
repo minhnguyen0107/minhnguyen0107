@@ -37,7 +37,6 @@ I'm a Computer Science student building a strong foundation in programming, algo
 * Software Development
 * Algorithms and Problem Solving
 * Database Systems
-* Data Analysis and Economics
 
 ## Current Goals
 
@@ -45,6 +44,4 @@ I'm a Computer Science student building a strong foundation in programming, algo
 * Practice data structures and algorithms consistently.
 * Build well-documented projects.
 * Prepare for a software development internship.
-
-## Contact
 
